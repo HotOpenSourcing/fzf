@@ -12,3 +12,5 @@ fzf
 tmp
 *.patch
 .idea
+config.bat
+node_modules
